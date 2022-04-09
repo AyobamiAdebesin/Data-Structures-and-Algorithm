@@ -11,7 +11,6 @@ def sum_ofDigits(n):
             sum += int(i)
     return sum
     
-
 def sum_of_digits(n):
     """
     Recursive implementation of sum of digits
