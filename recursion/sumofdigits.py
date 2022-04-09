@@ -23,5 +23,5 @@ def sum_of_digits(n):
 
     
 
-print("Iterative Solution: ", sum_ofDigits(1233099765432345671))
-print("Recursive Solution: ", sum_of_digits(1233099765432345671))
+print("Iterative Solution: ", sum_ofDigits(1233099765432345672))
+print("Recursive Solution: ", sum_of_digits(1233099765432345672))
